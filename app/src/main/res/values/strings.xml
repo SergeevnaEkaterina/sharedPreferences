@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Continue Watch Gerasina</string>
+    <string name="seconds_left">Seconds left: %d</string>
+</resources>
